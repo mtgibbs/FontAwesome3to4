@@ -15,7 +15,7 @@ FILE_EXTENSIONS=*.aspx,*.css,*.cs,*.ascx,*.js,*.html,*.java
 EXCLUDE_FILTERS=font-awesome, Generated., Designer., jquery, jqplot
 ```
 
-Each parameter can be a comma-delimited list.  So 
+Each parameter can be a comma-delimited list.
 
 ####PROJECT_PATHS
 
