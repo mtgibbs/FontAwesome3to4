@@ -5,8 +5,8 @@ CONFIG_FILE_NAME = 'fontawesome3to4.config'
 ICON_TAG_REGEX = re.compile('<i.*class=".*".*>')
 
 newSyntax = {' icon-': ' fa-', '"icon-': '"fa-', '.icon-': '.fa-', '\'icon-': '\'fa-', 'icon-fixed-width': 'fa-fw', 'icon-large': 'fa-lg', 'icons-ul': 'fa-ul'}
-iconNames = {'share': 'share-square-o', 'hand-down': 'hand-o-down', 'circle-arrow-down': 'arrow-circle-down',
- 'youtube-sign': 'youtube-square', 'expand': 'caret-square-o-right', 'download-alt': 'download', 'frown': 'frown-o',
+iconNames = {'share': 'share-square-o', 'hand-down': 'hand-o-down', 'circle-arrow-down': 'arrow-circle-down', 'download': 'arrow-circle-o-down',
+ 'youtube-sign': 'youtube-square', 'expand': 'caret-square-o-right', 'reorder': 'bars', 'download-alt': 'download', 'frown': 'frown-o',
  'check-sign': 'check-square', 'chevron-sign-right': 'chevron-circle-right', 'ban-circle': 'ban',
  'upload': 'arrow-circle-o-up', 'signin': 'sign-in', 'warning-sign': 'exclamation-triangle',
  'circle-blank': 'circle-o', 'beaker': 'flask', 'star-empty': 'star-o', 'folder-close-alt': 'folder-o',
@@ -23,7 +23,7 @@ iconNames = {'share': 'share-square-o', 'hand-down': 'hand-o-down', 'circle-arro
  'eye-open': 'eye', 'play-sign': 'play-circle', 'thumbs-up-alt': 'thumbs-o-up', 'unlink': 'chain-broken', 'zoom-in': 'search-plus',
  'question-sign': 'question-circle', 'sort-up': 'sort-desc', 'thumbs-down-alt': 'thumbs-o-down', 'time': 'clock-o',
  'minus-sign': 'minus-circle', 'ok': 'check', 'keyboard': 'keyboard-o', 'github-sign': 'github-square', 'hand-right': 'hand-o-right',
- 'food': 'cutlery', 'bookmark-empty': 'bookmark-o', 'download': 'arrow-circle-o-down', 'check-empty': 'square-o',
+ 'food': 'cutlery', 'bookmark-empty': 'bookmark-o', 'check-empty': 'square-o',
  'paper-clip': 'paperclip', 'tumblr-sign': 'tumblr-square', 'sort-by-order': 'sort-numeric-asc', 'copy': 'files-o',
  'double-angle-up': 'angle-double-up', 'flag-alt': 'flag-o', 'collapse-alt': 'collapse-o', 'remove': 'times',
  'star-half-empty': 'star-half-o', 'envelope-alt': 'envelope-o', 'check': 'check-square-o', 'zoom-out': 'search-minus',
