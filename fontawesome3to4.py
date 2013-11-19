@@ -23,9 +23,8 @@ iconNames = {'share': 'share-square-o', 'hand-down': 'hand-o-down', 'circle-arro
  'eye-open': 'eye', 'play-sign': 'play-circle', 'thumbs-up-alt': 'thumbs-o-up', 'unlink': 'chain-broken', 'zoom-in': 'search-plus',
  'question-sign': 'question-circle', 'sort-up': 'sort-desc', 'thumbs-down-alt': 'thumbs-o-down', 'time': 'clock-o',
  'minus-sign': 'minus-circle', 'ok': 'check', 'keyboard': 'keyboard-o', 'github-sign': 'github-square', 'hand-right': 'hand-o-right',
- 'food': 'cutlery', 'bookmark-empty': 'bookmark-o', 'check-empty': 'square-o',
- 'paper-clip': 'paperclip', 'tumblr-sign': 'tumblr-square', 'sort-by-order': 'sort-numeric-asc', 'copy': 'files-o',
- 'double-angle-up': 'angle-double-up', 'flag-alt': 'flag-o', 'collapse-alt': 'collapse-o', 'remove': 'times',
+ 'food': 'cutlery', 'bookmark-empty': 'bookmark-o', 'check-empty': 'square-o', 'paper-clip': 'paperclip', 'tumblr-sign': 'tumblr-square',
+ 'sort-by-order': 'sort-numeric-asc', 'copy': 'files-o', 'double-angle-up': 'angle-double-up', 'flag-alt': 'flag-o', 'collapse-alt': 'collapse-o', 
  'star-half-empty': 'star-half-o', 'envelope-alt': 'envelope-o', 'check': 'check-square-o', 'zoom-out': 'search-minus',
  'collapse-top': 'caret-square-o-up', 'microphone-off': 'microphone-slash', 'twitter-sign': 'twitter-square',
  'calendar-empty': 'calendar-o', 'comments-alt': 'comments-o', 'legal': 'gavel', 'hand-left': 'hand-o-left',
@@ -39,7 +38,7 @@ iconNames = {'share': 'share-square-o', 'hand-down': 'hand-o-down', 'circle-arro
  'smile': 'smile-o', 'lemon': 'lemon-o', 'bell-alt': 'bell', 'hand-up': 'hand-o-up', 'sort-by-alphabet': 'sort-alpha-asc',
  'share-alt': 'share', 'mobile-phone': 'mobile', 'lightbulb': 'lightbulb-o', 'ok-circle': 'check-circle-o', 'eye-close': 'eye-slash',
  'remove-circle': 'times-circle-o', 'double-angle-down': 'angle-double-down', 'double-angle-right': 'angle-double-right',
- 'trash': 'trash-o', 'linkedin-sign': 'linkedin-square', 'paste': 'clipboard'}
+ 'trash': 'trash-o', 'linkedin-sign': 'linkedin-square', 'paste': 'clipboard', 'remove': 'times'}
 
 global projects
 global extensions
